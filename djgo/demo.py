@@ -1,5 +1,6 @@
 import time
 import  random
-print(time.time())
+print(round(time.time(),2))
 print(time.time())
 print(random.randint(0,100))
+print("github")
